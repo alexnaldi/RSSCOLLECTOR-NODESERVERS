@@ -4,3 +4,6 @@
 [submodule "registration-server"]
 	path = registration-server
 	url = https://github.com/alexnaldi/RSSCOLLECTOR-NODESERVERS-REGISTRATIONSERVER.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/alexnaldi/RSSCOLLECTOR-NODESERVERS-APIGATEWAY.git
