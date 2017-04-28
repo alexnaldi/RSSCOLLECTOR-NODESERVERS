@@ -1,3 +1,6 @@
 [submodule "abstract-server"]
 	path = abstract-server
 	url = https://github.com/alexnaldi/RSSCOLLECTOR-NODESERVERS-ABSTRACTSERVER.git
+[submodule "registration-server"]
+	path = registration-server
+	url = https://github.com/alexnaldi/RSSCOLLECTOR-NODESERVERS-REGISTRATIONSERVER.git
