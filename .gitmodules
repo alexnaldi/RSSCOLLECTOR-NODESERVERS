@@ -1,0 +1,3 @@
+[submodule "abstract-server"]
+	path = abstract-server
+	url = https://github.com/alexnaldi/RSSCOLLECTOR-NODESERVERS-ABSTRACTSERVER.git
