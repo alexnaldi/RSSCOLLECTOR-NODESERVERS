@@ -7,3 +7,6 @@
 [submodule "api-gateway"]
 	path = api-gateway
 	url = https://github.com/alexnaldi/RSSCOLLECTOR-NODESERVERS-APIGATEWAY.git
+[submodule "fe-server"]
+	path = fe-server
+	url = https://github.com/alexnaldi/RSSCOLLECTOR-NODESERVERS-FESERVER.git
