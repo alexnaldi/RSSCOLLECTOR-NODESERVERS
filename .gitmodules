@@ -1,12 +1,12 @@
 [submodule "abstract-server"]
 	path = abstract-server
-	url = https://github.com/alexnaldi/RSSCOLLECTOR-NODESERVERS-ABSTRACTSERVER.git
+	url = git@github.com:alexnaldi/RSSCOLLECTOR-NODESERVERS-ABSTRACTSERVER.git
 [submodule "registration-server"]
 	path = registration-server
-	url = https://github.com/alexnaldi/RSSCOLLECTOR-NODESERVERS-REGISTRATIONSERVER.git
+	url = git@github.com:alexnaldi/RSSCOLLECTOR-NODESERVERS-REGISTRATIONSERVER.git
 [submodule "api-gateway"]
 	path = api-gateway
-	url = https://github.com/alexnaldi/RSSCOLLECTOR-NODESERVERS-APIGATEWAY.git
+	url = git@github.com:alexnaldi/RSSCOLLECTOR-NODESERVERS-APIGATEWAY.git
 [submodule "fe-server"]
 	path = fe-server
-	url = https://github.com/alexnaldi/RSSCOLLECTOR-NODESERVERS-FESERVER.git
+	url = git@github.com:alexnaldi/RSSCOLLECTOR-NODESERVERS-FESERVER.git
